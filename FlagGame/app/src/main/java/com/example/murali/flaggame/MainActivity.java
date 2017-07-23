@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
     
     private boolean phoneDevice = true;
     private boolean preferanceChanged =true;
+    private boolean preferanceChanged1=false;
+   
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
